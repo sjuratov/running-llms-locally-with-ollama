@@ -1,0 +1,8 @@
+# Install required libraries
+numpy
+torch
+torchvision
+ollama
+fastapi
+uvicorn
+requests
